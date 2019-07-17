@@ -1,0 +1,14 @@
+.search-container {
+  width: 60%;
+  margin: auto;
+  display: block;
+  min-height: 310px;
+}
+.no-data {
+  padding: 10%;
+  font-size: 3em;
+  font-weight: bold;
+  font-family: "sofia";
+  text-align: center;
+  color: blue;
+}

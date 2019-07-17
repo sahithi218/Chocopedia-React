@@ -1,0 +1,29 @@
+.footer {
+  display: flex;
+  background-color: rgb(54, 2, 7);
+  width: 60%;
+  margin: auto;
+}
+.col {
+  display: inline-block;
+  /* float: left; */
+  width: calc(100% / 3);
+}
+.footer ul {
+  margin: 0px;
+  padding: 0px 15px 10px 0px;
+}
+.footer li:first-child {
+  color: rgb(149, 136, 21);
+  display: block;
+  border-bottom: none;
+  margin: 5px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+.footer li {
+  display: block;
+  color: whitesmoke;
+  border-bottom: 1px solid rgb(149, 136, 21);
+  margin-left: 15px;
+}

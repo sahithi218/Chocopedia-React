@@ -1,0 +1,21 @@
+.headDiv {
+  text-align: center;
+  margin: 0 auto;
+  background-color: rgb(179, 43, 43);
+  color: white;
+  border-radius: 0px 0px 10px 10px;
+  width: 60%;
+  padding-bottom: 10px;
+}
+.headDivText {
+  margin: 0px;
+  font-family: "Sofia";
+  font-size: 2em;
+}
+.tag-line {
+  margin: 0px;
+  font-size: 1.3rem;
+  font-family: sans-serif;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+}

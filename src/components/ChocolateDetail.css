@@ -1,0 +1,14 @@
+.chocolateDetail-container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.chocolate-name {
+  color: rgb(255, 73, 0);
+  font-family: "Sofia";
+  text-align: center;
+}
+
+.chocolate-desc {
+  font-size: 1.2em;
+}

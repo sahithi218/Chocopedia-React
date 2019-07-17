@@ -1,0 +1,41 @@
+.navBar {
+  background-color: rgb(54, 2, 7);
+  height: 35px;
+}
+.nav {
+  display: block;
+  float: left;
+  padding: 0px 10px;
+  margin-top: 5px;
+}
+.search-btn {
+  float: right;
+  display: block;
+  padding: 0px 5px;
+  margin-top: 5px;
+}
+.logout-btn a {
+  float: right;
+  display: block;
+  padding: 0px 5px;
+  margin-top: 5px;
+  margin-right: 5px;
+  color: yellow;
+  text-decoration: none;
+}
+.header {
+  display: block;
+  float: left;
+  color: yellow;
+  padding: 5px 0px;
+  font-family: "Sofia";
+}
+
+.link {
+  text-decoration: none;
+  color: #cccccc;
+}
+.navBar ul {
+  margin: 0px;
+  list-style-type: none;
+}
